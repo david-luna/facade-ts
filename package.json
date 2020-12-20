@@ -1,0 +1,7 @@
+{
+  "name": "facade-ts",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
