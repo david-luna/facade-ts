@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+      "esModuleInterop": true,
+      "lib": [
+          "ES2017",
+          "DOM",
+      ],
+      "module": "commonjs",
+      "strictNullChecks": true,
+      "sourceMap": true,
+      "moduleResolution": "node",
+      "declaration": true,
+      "strict": true,
+      "target": "es5",
+      "types": [
+          "jest",
+          "node"
+      ],
+  }
+}

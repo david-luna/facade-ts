@@ -1,0 +1,6 @@
+{
+  "name": "@facade-ts/types",
+  "scripts": {
+    "build": "tsc"
+  }
+}
